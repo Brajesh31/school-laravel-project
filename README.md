@@ -62,4 +62,4 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 
-Last updated: 2026-10-15 23:31 UTC
+Last updated: 2026-10-16 02:59 UTC
